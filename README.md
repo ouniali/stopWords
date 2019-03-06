@@ -1,0 +1,2 @@
+# stopWords
+stop words list
